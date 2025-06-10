@@ -53,6 +53,14 @@
     text-align: left;
 }
 
+#explore{
+    background-color: green;
+}
+
+#apply{
+    background-color: green;
+}
+
 /*Courses*/
 #our{
     color: blue;
@@ -68,11 +76,24 @@
 }
 
 #left{
-    text-align: left;
+    text-align: left;                                         /*https://vck-ojt-project-swart.vercel.app*/
 }
 
 #video{
     height: 600px;
     width: 1000px;
     align-items: center;
+}
+
+#aa{
+    text-align: left;
+}
+
+#bb{
+    color:wheat;
+    background-color: green;
+}
+
+#para{
+    text-align: left;
 }

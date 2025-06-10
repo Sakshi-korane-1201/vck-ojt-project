@@ -36,7 +36,7 @@ const HomePage= () => {
                  experience and personal growth.
                 </p>
                 <h4>Ready to explore our courses?</h4>
-                <button onclick="submit">Exploer Courses</button>
+                <button onclick="submit" id="explore">Exploer Courses</button>
          </div>
     )
 }

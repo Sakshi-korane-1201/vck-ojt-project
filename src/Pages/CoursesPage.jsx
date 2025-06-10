@@ -5,13 +5,14 @@ const CoursesPage= () => {
     return(
         <div>
             <h1 id='our'>Our Academic Programs</h1>
-            <p>Vivekanand College offers a comprehensive range of undergraduate and postgraduate
+            <p id="para">Vivekanand College offers a comprehensive range of undergraduate and postgraduate
                programs designed to equip students with the knowledge and skills demanded by today's
                dynamic global landscape. Our curriculum is regularly updated to reflect industry trends and 
                academic advancements.
             </p>
             <h2>Discover Campus Life</h2>
             <video src ="/public/videos/college-tour.mp4"controls id="video"></video>
+            
             <i>Get a glimpse of the vibrant academic and social life at Vivekanand College.</i>
             <div id="left">
             <h3>Undergraduate Programs (UG)</h3>
@@ -74,13 +75,16 @@ const CoursesPage= () => {
                     <td>B.Sc. IT/CS (50%)</td>
                 </tr>  
             </table> 
+            <div id="aa">
             <h2>Specialized & Vocational Courses</h2>
             <p>In addition to traditional degree programs, we offer various certificate and diploma courses in
               areas like Digital Marketing, Web Development, Data Analytics, and Soft Skills Development,
               providing specialized training for career enhancement.
             </p>
+            </div>
             <h3>Have questions about a specific course?</h3>
-            <button onclick="submit">Inquire About Courses</button>
+            <button onclick="submit" id="bb">Inquire About Courses</button>
+            
         </div>
     )
 }
