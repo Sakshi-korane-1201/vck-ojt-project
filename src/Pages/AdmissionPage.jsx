@@ -6,6 +6,7 @@ const AdmissionPage= () => {
     return(
         <div>
             <h1>Admissions at Vivekanand College</h1>
+            <div id="dd">
                  <p>Welcome to the Admissions page of Vivekanand College! We are delighted you're considering 
                         joining our vibrant academic community. Our admission process is designed to be 
                         straightforward and accessible.
@@ -14,7 +15,7 @@ const AdmissionPage= () => {
                      any queries, feel free to contact our admissions office.
                 </p>
             <h2>Eligibility Criteria for Undergraduate Programs</h2>
-            <table>
+            <table border="2">
                 <tr>
                     <th>Program	</th>
                     <th>Minimum Qualification</th>
@@ -50,6 +51,7 @@ const AdmissionPage= () => {
             </ol>
             <p>For detailed information on postgraduate program admissions, specific program syllabi, and fee structures, please visit our Courses page or Contact us directly.
             </p>
+            </div>
 
 
 

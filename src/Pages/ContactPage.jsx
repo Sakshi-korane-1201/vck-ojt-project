@@ -4,7 +4,7 @@ import './Pages.css'
 const ContactPage= () => {
     return(
         <div>
-            <h2>Contact us</h2>
+            <h1 id="ss">Contact us</h1>
             <div id="pp">
             <p>We'd love to hear from you! Whether you have questions about admissions, programs, or 
                 campus life, our team is here to help.
