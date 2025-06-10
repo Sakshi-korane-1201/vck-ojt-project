@@ -5,6 +5,7 @@ const ContactPage= () => {
     return(
         <div>
             <h2>Contact us</h2>
+            <div id="pp">
             <p>We'd love to hear from you! Whether you have questions about admissions, programs, or 
                 campus life, our team is here to help.
             </p>
@@ -28,6 +29,7 @@ const ContactPage= () => {
             <a href="View on Google Maps"></a>
             <h3>Send Us a Message</h3>
             <p>[A contact form with fields for Name, Email, Subject, Message can be added here.]</p>
+            </div>
         </div>
     )
 }
