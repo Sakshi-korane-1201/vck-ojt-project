@@ -1,0 +1,78 @@
+/*About*/
+#aa{
+    text-align: left;
+}
+
+#bb{
+    text-align: left;
+}
+
+#mission{
+    text-align: left;   
+}
+
+#list{
+    text-align: justify;
+}
+
+#value{
+    text-align: left;
+}
+
+#history{
+    text-align: left;
+}
+
+#vck{
+    color: blue;
+    animation: backwards;
+}
+
+/*Home*/
+.homepage{
+    background-color: skyblue;
+}
+
+.welcome{
+    text-align: center;
+}
+
+.button{
+    background-color: green;
+}
+
+.Your{
+    text-align: center;
+}
+
+#list{
+    text-align: left;
+}
+
+#why{
+    text-align: left;
+}
+
+/*Courses*/
+#our{
+    color: blue;
+    text-align: center;
+}
+
+#ug{
+    text-align: justify;
+}
+
+#pg{
+    text-align: justify;
+}
+
+#left{
+    text-align: left;
+}
+
+#video{
+    height: 600px;
+    width: 1000px;
+    align-items: center;
+}
